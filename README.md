@@ -1,0 +1,2 @@
+# allnewlog_moldmtc
+logmolding
